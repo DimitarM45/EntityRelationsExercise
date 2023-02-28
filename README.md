@@ -1,2 +1,2 @@
 # EntityRelationsExercise
-Exercises from SoftUni C# Entity Framework Course (Lecture: Entity Relations Exercise)
+Exercises from SoftUni C# Entity Framework Core Course (Lecture: Entity Relations Exercise)
